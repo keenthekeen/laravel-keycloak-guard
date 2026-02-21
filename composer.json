@@ -21,7 +21,7 @@
     "require": {
         "php": "^8.3",
         "ext-openssl": "*",
-        "firebase/php-jwt": "^6.3",
+        "firebase/php-jwt": "^6.3|^7.0",
         "guzzlehttp/guzzle": "*",
         "symfony/cache": "*"
     },
